@@ -153,12 +153,12 @@ Set ``` pcd_save_enable ``` in launchfile to ``` 1 ```. All the scans (in global
 <img src="doc/tsinghua results/zhulou-rs80-fast-lio-x4.png" width=49.6% />
 </div>
 
+
 Run:
 ```
 source devel/setup.bash
 roslaunch fast_lio mapping_rs80_thu.launch
 rosbag play NAME.bag
-
 ```
 
 ## 5.Implementation on UAV
@@ -167,8 +167,8 @@ In order to validate the robustness and computational efficiency of FAST-LIO in 
 The main structure of this UAV is 3d printed (Aluminum or PLA), the .stl file will be open-sourced in the future.
 
 <div align="center">
-    <img src="doc/car.png" width=70% >
-    <img src="doc/rslidar.png" width=27.5% >
+    <img src="doc/tsinghua results/car.png" width=70% >
+    <img src="doc/tsinghua results/rslidar.png" width=27.5% >
 </div>
 
 ## 6.Acknowledgments
