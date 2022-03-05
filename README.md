@@ -162,7 +162,7 @@ rosbag play NAME.bag
 ```
 
 ## 5.Implementation on UAV
-In order to validate the robustness and computational efficiency of FAST-LIO in actual mobile robots, we build a car which carries a RoboSense LiDAR with 70 degree FoV and a <xxx> onboard computer with a <xxx> GHz Intel <xxx> CPU and <xxx> G RAM, as shown in below.
+In order to validate the robustness and computational efficiency of FAST-LIO in actual mobile robots, we build a car which carries a RoboSense LiDAR with 70 degree FoV and a XXX onboard computer with a XXX GHz Intel XXX CPU and XXX G RAM, as shown in below.
 
 The main structure of this UAV is 3d printed (Aluminum or PLA), the .stl file will be open-sourced in the future.
 
