@@ -167,8 +167,8 @@ In order to validate the robustness and computational efficiency of FAST-LIO in 
 The main structure of this UAV is 3d printed (Aluminum or PLA), the .stl file will be open-sourced in the future.
 
 <div align="center">
-    <img src="doc/tsinghua results/car.png" width=70% >
-    <img src="doc/tsinghua results/rslidar.png" width=27.5% >
+    <img src="doc/tsinghua results/car.png" width=57% >
+    <img src="doc/tsinghua results/rslidar.png" width=40.5% >
 </div>
 
 ## 6.Acknowledgments
