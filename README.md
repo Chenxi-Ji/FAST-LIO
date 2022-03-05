@@ -13,7 +13,7 @@
 2. Automaticaly initialized at most steady environments;
 3. Parallel KD-Tree Search to decrease the computation;
 
-## FAST-LIO 2.0 (2021-07-05 Update)
+## FAST-LIO 2.0 (2022-03-05 Update)
 <div align="left">
 <img src="doc/tsinghua results/meiyuan-rs80-fast-lio-x4.gif" width=49.6% />
 <img src="doc/tsinghua results/zhulou-rs80-fast-lio-x4.gif" width = 49.6% >
@@ -167,8 +167,8 @@ In order to validate the robustness and computational efficiency of FAST-LIO in 
 The main structure of this UAV is 3d printed (Aluminum or PLA), the .stl file will be open-sourced in the future.
 
 <div align="center">
-    <img src="doc/car.jpg" width=40.5% >
-    <img src="doc/rslidar.png" width=57% >
+    <img src="doc/car.png" width=70% >
+    <img src="doc/rslidar.png" width=27.5% >
 </div>
 
 ## 6.Acknowledgments
